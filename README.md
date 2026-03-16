@@ -33,7 +33,7 @@ The goal is to deeply understand how LLMs work in real-world applications, inclu
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/wandilemawelela/ai-engineer-project-1-llm-chatbot.git
+git clone https://github.com/jason-lammers/ai-llm-chatbot.git
 cd ai-engineer-project-1-llm-chatbot
 ```
 
